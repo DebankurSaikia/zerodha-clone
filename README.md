@@ -56,29 +56,36 @@ Follow these steps to get the project up and running on your local machine.
 1. Clone the Repository
 First, clone the repository to your local system:
 
-Bash
+```bash
 git clone [https://github.com/DebankurSaikia/zerodha-clone.git](https://github.com/DebankurSaikia/zerodha-clone.git)
 cd zerodha-clone
+```
+
 2. Set Up the Backend
 Navigate to the backend folder, install dependencies, and start the server:
 
-Bash
+```bash
 cd backend
 npm install
 npm start
+```
 3. Launch the Public Frontend
 In a new terminal window, start the landing page application:
 
-Bash
+```bash
 cd frontend
 npm install
 npm start
+```
+
 4. Open the Trading Dashboard
 In another terminal window, start the user dashboard:
 
-Bash
+```bash
 cd dashboard
 npm install
 npm start
+```
+
 👨‍💻 Developer
 Developed by Debankur Saikia.
