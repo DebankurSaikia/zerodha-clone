@@ -42,20 +42,21 @@ zerodha-clone/
 ```
 
 
-##🚧 Project Status & Roadmap
-*[x] Database Integration: Successfully fetching portfolio data from MongoDB.
+## 🚧 Project Status & Roadmap
 
-*[x] Authentication: User login and signup functionality is live.
+[x] **Database Integration** : Successfully fetching portfolio data from MongoDB.
 
-*[ ] Full Mobile Responsiveness: Currently refining Bootstrap grid layouts for consistent display across all mobile devices.
+[x] **Authentication** : User login and signup functionality is live.
 
-*[ ] Live Market Data: Future integration with external APIs (like Upstox or Alpha Vantage) for real-time price updates.
+[ ] **Full Mobile Responsiveness** : Currently refining Bootstrap grid layouts for consistent display across all mobile devices.
+
+[ ] **Live Market Data** : Future integration with external APIs (like Upstox or Alpha Vantage) for real-time price updates.
 
 
-##⚙️ Getting Ready
+## ⚙️ Getting Ready
 Follow these steps to get the project up and running on your local machine.
 
-*1. Clone the Repository
+**1. Clone the Repository**
 First, clone the repository to your local system:
 
 ```bash
@@ -63,7 +64,7 @@ git clone [https://github.com/DebankurSaikia/zerodha-clone.git](https://github.c
 cd zerodha-clone
 ```
 
-*2. Set Up the Backend
+**2. Set Up the Backend**
 Navigate to the backend folder, install dependencies, and start the server:
 
 ```bash
@@ -71,7 +72,7 @@ cd backend
 npm install
 npm start
 ```
-*3. Launch the Public Frontend
+**3. Launch the Public Frontend**
 In a new terminal window, start the landing page application:
 
 ```bash
@@ -80,7 +81,7 @@ npm install
 npm start
 ```
 
-*4. Open the Trading Dashboard
+**4. Open the Trading Dashboard**
 In another terminal window, start the user dashboard:
 
 ```bash
@@ -89,5 +90,6 @@ npm install
 npm start
 ```
 
-*👨‍💻 Developer
-Developed by Debankur Saikia.
+**👨‍💻 Developer**
+
+*Developed by Debankur Saikia.*
