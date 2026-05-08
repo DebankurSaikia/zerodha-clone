@@ -1,0 +1,61 @@
+.nav-link {
+  margin-left: 40px;
+}
+
+#supportHero{
+  background-color: rgb(56, 126, 209);
+  color: white;
+}
+
+#supportHero a{
+  color: white;
+}
+
+#supportWrapper{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 180px;
+}
+
+#supportHero input{
+  padding: 20px 50px;
+  width: 95%;
+  font-size: 20px;
+  border-radius: 10px;
+  border: none;
+}
+
+.universe-logo {
+
+  width: 140px;
+
+  height: 50px;
+
+  object-fit: contain;
+
+  opacity: 0.9;
+
+  transition: 0.3s;
+}
+
+
+
+.universe-logo:hover {
+
+  opacity: 1;
+
+  transform: scale(1.05);
+}
+
+.auth-error {
+
+  color: #e53935;
+
+  font-size: 0.9rem;
+
+  margin-top: -8px;
+
+  margin-bottom: 15px;
+
+  text-align: left;
+}
